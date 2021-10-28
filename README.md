@@ -1,11 +1,11 @@
-# Elysian Dao
+# Elysian Dao Research
 R&amp;D for Elysian Dao consisting of the following:
 * Whitepaper docs (latex)
 * Mathematical simulations
 * Data Resources
 * Related articles
 
-# Elysian Dao TeX documents
+## Elysian Dao TeX documents
 
 This repos contains all Elysian Dao TeX documents; the following documents are available:
 - Elysian Dao whitepaper (uses Cornells' [arXiv](https://arxiv.org/help/macro_list)) style file for LaTex)
