@@ -7,7 +7,7 @@ R&amp;D for Elysian Dao consisting of the following:
 
 ## Gold Standard Dao TeX documents
 
-This repos contains all Elysian Dao TeX documents; the following documents are available:
+This repos contains all Gold Standard Dao TeX documents; the following documents are available:
 - Gold Standard Dao whitepaper (uses Cornells' [arXiv](https://arxiv.org/help/macro_list)) style file for LaTex)
 
 ## Build & Install (MacOS)
