@@ -1,5 +1,5 @@
 # Gold Standard Dao Research
-R&amp;D for Elysian Dao consisting of the following:
+R&amp;D for Gold Standard Dao consisting of the following:
 * Whitepaper docs (latex)
 * Mathematical simulations (jupyter notebook) - coming
 * Data Resources
